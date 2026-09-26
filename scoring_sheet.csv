@@ -1,0 +1,6 @@
+query_id,doc_id,relevance,specificity,noise,total_score,decision,included,outcome_quality,context_length_tokens,notes
+1,doc_001,10,10,9,29,include,yes,,,
+1,doc_002,9,10,9,28,include,yes,,,
+1,doc_003,5,4,6,15,exclude,no,,,
+1,doc_004,9,8,7,24,include,yes,,,
+1,doc_005,2,3,5,10,exclude,no,,,
